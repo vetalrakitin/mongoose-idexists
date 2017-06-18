@@ -1,29 +1,31 @@
 {
-    "name": "mongoose-idexists",
-    "version": "1.0.6",
-    "description": "Mongoose Validator to checks if the ref Object ID exists",
-    "main": "index.js",
-    "scripts": {
-        "test": "./node_modules/.bin/mocha"
-    },
-    "repository": "h4t0n/mongoose-idexists",
-    "keywords": [
-        "mongoose",
-        "validator"
-    ],
-    "author": {
-        "name": "Andrea Tarquini",
-        "email": "tarquiniandreagm@gmail.com",
-        "url": "https://blog.h4t0n.com"
-    },
-    "contributors": [{
-        "name": "Vitalii Rakytin",
-        "email": "vetalrakitin@gmail.com"
-    }],
-    "license": "MIT",
-    "devDependencies": {
-        "chai": "^3.4.1",
-        "mocha": "^2.3.4",
-        "mongoose": "^4.2.7"
+  "name": "mongoose-idexists",
+  "version": "1.0.7",
+  "description": "Mongoose Validator to checks if the ref Object ID exists",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": "h4t0n/mongoose-idexists",
+  "keywords": [
+    "mongoose",
+    "validator"
+  ],
+  "author": {
+    "name": "Andrea Tarquini",
+    "email": "tarquiniandreagm@gmail.com",
+    "url": "https://blog.h4t0n.com"
+  },
+  "contributors": [
+    {
+      "name": "Vitalii Rakytin",
+      "email": "vetalrakitin@gmail.com"
     }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "mongoose": "^4.2.7"
+  }
 }
